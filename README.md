@@ -1,2 +1,2 @@
-# 2D-Array---DS
+# 2D-Array-DS
 Hackerrank Interview Preparation Kit 2D Array - DS problem
